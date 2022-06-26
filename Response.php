@@ -4,7 +4,7 @@ namespace eapdob\phpmvc;
 
 /**
  * Class Response
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvc
  */
 class Response

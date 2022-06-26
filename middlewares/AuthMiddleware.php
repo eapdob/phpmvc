@@ -7,7 +7,7 @@ use eapdob\phpmvc\exception\ForbiddenException;
 
 /**
  * Class AuthMiddleware
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvc
  */
 class AuthMiddleware extends BaseMiddleware

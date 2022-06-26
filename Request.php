@@ -4,7 +4,7 @@ namespace eapdob\phpmvc;
 
 /**
  * Class Request
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvc
  */
 class Request

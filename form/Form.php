@@ -6,7 +6,7 @@ use eapdob\phpmvc\Model;
 
 /**
  * Class Form
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvcframeworkcore\form
  */
 class Form

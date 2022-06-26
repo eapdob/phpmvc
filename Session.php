@@ -4,7 +4,7 @@ namespace eapdob\phpmvc;
 
 /**
  * Class Session
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvc
  */
 class Session

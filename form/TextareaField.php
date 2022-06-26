@@ -4,7 +4,7 @@ namespace eapdob\phpmvc\form;
 
 /**
  * Class TextareaField
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvcframeworkcore\form
  */
 class TextareaField extends BaseField

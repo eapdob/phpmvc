@@ -6,7 +6,7 @@ use eapdob\phpmvc\db\DbModel;
 
 /**
  * Class UserModel
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvc
  */
 abstract class UserModel extends DbModel

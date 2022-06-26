@@ -6,7 +6,7 @@ use eapdob\phpmvc\db\Database;
 
 /**
  * Class Application
- * @author Evgenii Poperezhai eapdob@gmail.com
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
  * @package eapdob\phpmvc
  */
 class Application
