@@ -85,7 +85,7 @@ class Application
 
     public function on($eventName, $callback)
     {
-        $this->eventListeners[$eventName] = $callback;
+        $this->eventListeners[$eventName][] = $callback;
     }
 
     public function triggerEvent($eventName)
