@@ -1,1 +1,1 @@
-# phpmvc
+# phpmvc-framework-core

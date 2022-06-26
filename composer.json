@@ -1,0 +1,15 @@
+{
+  "name": "eapdob/phpmvc",
+  "authors": [
+    {
+      "name": "eapdob",
+      "email": "eapdob@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "eapdob\\phpmvc\\": "."
+    }
+  }
+}
