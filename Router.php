@@ -7,7 +7,7 @@ use namespace eapdob\phpmvc\exception\NotFoundException;
 /**
  * Class Router
  * @author Evgenii Poperezhai eapdob@gmail.com
- * @package app\core
+ * @package eapdob\phpmvc
  */
 class Router
 {

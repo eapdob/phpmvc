@@ -5,7 +5,7 @@ namespace eapdob\phpmvc;
 /**
  * Class Session
  * @author Evgenii Poperezhai eapdob@gmail.com
- * @package app\core
+ * @package eapdob\phpmvc
  */
 class Session
 {
