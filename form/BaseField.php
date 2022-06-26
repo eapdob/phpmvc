@@ -2,8 +2,13 @@
 
 namespace eapdob\phpmvc\form;
 
-use eapdob\phpmvc\db;
+use eapdob\phpmvc\Model;
 
+/**
+ * Class BaseField
+ * @author Evgenii Poperezhai <eapdob@gmail.com>
+ * @package eapdob\phpmvc\form
+ */
 abstract class BaseField
 {
     public Model $model;
@@ -12,7 +17,7 @@ abstract class BaseField
     /*
      * BaseField constructor
      *
-     * @param \eapdob\phpmvcframeworkcore\Model $model
+     * @param \eapdob\phpmvc\Model $model
      * @param string $attribute
      */
     public function __construct(Model $model, string $attribute)

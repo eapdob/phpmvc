@@ -2,7 +2,7 @@
 
 namespace eapdob\phpmvc;
 
-use namespace eapdob\phpmvc\exception\NotFoundException;
+use eapdob\phpmvc\exception\NotFoundException;
 
 /**
  * Class Router
@@ -49,7 +49,7 @@ class Router
             return Application::$app->view->renderView($callback);
         }
         if (is_array($callback)) {
-            /** @var \eapdob\phpmvcframeworkcore\Controller $controller */
+            /** @var eapdob\phpmvc\Controller $controller */
             $controller = new $callback[0]();
             $controller->action = $callback[1];
             $callback[0] = $controller;

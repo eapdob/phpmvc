@@ -7,7 +7,7 @@ use eapdob\phpmvc\model;
 /**
  * Class InputField
  * @author Evgenii Poperezhai <eapdob@gmail.com>
- * @package eapdob\phpmvcframeworkcore\form
+ * @package eapdob\phpmvc\form
  */
 class InputField extends BaseField
 {

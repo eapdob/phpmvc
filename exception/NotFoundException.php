@@ -5,7 +5,7 @@ namespace eapdob\phpmvc\exception;
 /**
  * Class ForbiddenException
  * @author Evgenii Poperezhai <eapdob@gmail.com>
- * @package eapdob\phpmvcframeworkcore\exception
+ * @package eapdob\phpmvc\exception
  */
 class NotFoundException extends \Exception
 {

@@ -8,7 +8,7 @@ use eapdob\phpmvc\Model;
 /**
  * Class DbModel
  * @author Evgenii Poperezhai <eapdob@gmail.com>
- * @package eapdob\phpmvc
+ * @package eapdob\phpmvc\db
  */
 abstract class DbModel extends Model
 {

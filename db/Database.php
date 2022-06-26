@@ -7,7 +7,7 @@ use eapdob\phpmvc\Application;
 /**
  * Class Database
  * @author Evgenii Poperezhai <eapdob@gmail.com>
- * @package eapdob\phpmvc
+ * @package eapdob\phpmvc\db
  */
 class Database
 {

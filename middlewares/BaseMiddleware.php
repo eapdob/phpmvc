@@ -5,7 +5,7 @@ namespace eapdob\phpmvc\middlewares;
 /**
  * Class BaseMiddleware
  * @author Evgenii Poperezhai <eapdob@gmail.com>
- * @package eapdob\phpmvc
+ * @package eapdob\phpmvc\middlewares
  */
 abstract class BaseMiddleware
 {
